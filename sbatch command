@@ -1,0 +1,12 @@
+# activate cigale env
+source /global/common/software/dessn/cori_haswell/setup_cigale.sh
+
+# NO NEED to edit pcigale.ini file (input file name is always 'gal_pix_method1.in', overwite=True)
+# DO NOT pcigale genconf bc it will get rid of your list settings for specific parameters
+
+# run precigale with input=redshift
+python precigale_method1.py precigale 0.10 && sbatch runCIGALE.sl 
+
+# wait until fits files generated
+python postcigale.py
+
