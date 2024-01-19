@@ -1,0 +1,55 @@
+label xcentroid ycentroid area bbox bbox_xmax bbox_xmin bbox_ymax bbox_ymin
+1 17.0429 118.0234 45.0 "BoundingBox(ixmin=13, ixmax=21, iymin=115, iymax=123)" 20 13 122 115
+2 121.5812 137.3331 24.0 "BoundingBox(ixmin=120, ixmax=125, iymin=134, iymax=141)" 124 120 140 134
+3 55.7314 193.1549 267.0 "BoundingBox(ixmin=46, ixmax=67, iymin=184, iymax=201)" 66 46 200 184
+4 99.7994 99.2403 377.0 "BoundingBox(ixmin=87, ixmax=114, iymin=88, iymax=111)" 113 87 110 88
+5 107.0182 108.4671 113.0 "BoundingBox(ixmin=100, ixmax=116, iymin=103, iymax=116)" 115 100 115 103
+label xcentroid ycentroid area bbox bbox_xmax bbox_xmin bbox_ymax bbox_ymin
+1 156.7926 60.0487 27.0 "BoundingBox(ixmin=155, ixmax=160, iymin=57, iymax=64)" 159 155 63 57
+2 139.8701 68.6806 9.0 "BoundingBox(ixmin=139, ixmax=142, iymin=67, iymax=71)" 141 139 70 67
+3 134.3454 74.8717 94.0 "BoundingBox(ixmin=129, ixmax=139, iymin=69, iymax=81)" 138 129 80 69
+4 101.5751 103.7181 2997.0 "BoundingBox(ixmin=64, ixmax=130, iymin=71, iymax=148)" 129 64 147 71
+5 65.1996 83.3825 5.0 "BoundingBox(ixmin=64, ixmax=67, iymin=83, iymax=85)" 66 64 84 83
+6 140.4944 103.0034 6.0 "BoundingBox(ixmin=140, ixmax=142, iymin=102, iymax=105)" 141 140 104 102
+7 142.9930 109.0080 7.0 "BoundingBox(ixmin=142, ixmax=145, iymin=108, iymax=111)" 144 142 110 108
+8 17.8739 118.1103 132.0 "BoundingBox(ixmin=12, ixmax=26, iymin=112, iymax=125)" 25 12 124 112
+9 67.7129 118.4423 7.0 "BoundingBox(ixmin=67, ixmax=70, iymin=117, iymax=121)" 69 67 120 117
+10 126.8692 124.7611 8.0 "BoundingBox(ixmin=125, ixmax=130, iymin=123, iymax=127)" 129 125 126 123
+11 87.1444 161.7354 33.0 "BoundingBox(ixmin=84, ixmax=91, iymin=159, iymax=165)" 90 84 164 159
+12 55.9433 193.0932 614.0 "BoundingBox(ixmin=41, ixmax=75, iymin=175, iymax=201)" 74 41 200 175
+label xcentroid ycentroid area bbox bbox_xmax bbox_xmin bbox_ymax bbox_ymin
+1 157.4261 59.9030 59.0 "BoundingBox(ixmin=154, ixmax=162, iymin=56, iymax=66)" 161 154 65 56
+2 134.8601 74.3795 78.0 "BoundingBox(ixmin=130, ixmax=142, iymin=68, iymax=80)" 141 130 79 68
+3 60.1902 73.0042 19.0 "BoundingBox(ixmin=58, ixmax=63, iymin=71, iymax=76)" 62 58 75 71
+4 17.9421 118.0932 173.0 "BoundingBox(ixmin=11, ixmax=27, iymin=112, iymax=126)" 26 11 125 112
+5 87.2299 161.8631 42.0 "BoundingBox(ixmin=84, ixmax=91, iymin=159, iymax=166)" 90 84 165 159
+6 55.8813 193.1255 512.0 "BoundingBox(ixmin=42, ixmax=72, iymin=180, iymax=201)" 71 42 200 180
+7 157.3979 181.5900 15.0 "BoundingBox(ixmin=156, ixmax=160, iymin=180, iymax=184)" 159 156 183 180
+8 100.0199 100.3497 1864.0 "BoundingBox(ixmin=75, ixmax=126, iymin=75, iymax=128)" 125 75 127 75
+9 120.7304 136.6160 324.0 "BoundingBox(ixmin=111, ixmax=130, iymin=122, iymax=147)" 129 111 146 122
+label xcentroid ycentroid area bbox bbox_xmax bbox_xmin bbox_ymax bbox_ymin
+1 3.0205 18.7889 10.0 "BoundingBox(ixmin=2, ixmax=5, iymin=17, iymax=21)" 4 2 20 17
+2 91.4888 19.7719 31.0 "BoundingBox(ixmin=88, ixmax=95, iymin=17, iymax=24)" 94 88 23 17
+3 139.1094 33.8506 8.0 "BoundingBox(ixmin=138, ixmax=141, iymin=33, iymax=36)" 140 138 35 33
+4 157.4194 60.0952 104.0 "BoundingBox(ixmin=153, ixmax=163, iymin=55, iymax=70)" 162 153 69 55
+5 33.3022 64.9599 16.0 "BoundingBox(ixmin=32, ixmax=36, iymin=63, iymax=68)" 35 32 67 63
+6 135.1589 74.3420 81.0 "BoundingBox(ixmin=131, ixmax=143, iymin=67, iymax=80)" 142 131 79 67
+7 60.2858 73.2310 53.0 "BoundingBox(ixmin=57, ixmax=65, iymin=70, iymax=78)" 64 57 77 70
+8 72.3064 88.3888 16.0 "BoundingBox(ixmin=71, ixmax=75, iymin=86, iymax=92)" 74 71 91 86
+9 18.0864 118.1280 221.0 "BoundingBox(ixmin=10, ixmax=29, iymin=111, iymax=126)" 28 10 125 111
+10 87.0418 161.9846 61.0 "BoundingBox(ixmin=83, ixmax=92, iymin=158, iymax=167)" 91 83 166 158
+11 55.9136 193.1201 626.0 "BoundingBox(ixmin=40, ixmax=74, iymin=177, iymax=201)" 73 40 200 177
+12 157.4125 181.6961 42.0 "BoundingBox(ixmin=154, ixmax=161, iymin=178, iymax=186)" 160 154 185 178
+13 21.7853 181.4814 10.0 "BoundingBox(ixmin=21, ixmax=24, iymin=180, iymax=184)" 23 21 183 180
+14 100.1187 100.4455 2169.0 "BoundingBox(ixmin=74, ixmax=127, iymin=73, iymax=130)" 126 74 129 73
+15 120.4516 136.3595 475.0 "BoundingBox(ixmin=107, ixmax=134, iymin=120, iymax=149)" 133 107 148 120
+label xcentroid ycentroid area bbox bbox_xmax bbox_xmin bbox_ymax bbox_ymin
+1 157.4459 59.5601 40.0 "BoundingBox(ixmin=155, ixmax=161, iymin=56, iymax=64)" 160 155 63 56
+2 60.3776 72.9827 35.0 "BoundingBox(ixmin=58, ixmax=64, iymin=70, iymax=77)" 63 58 76 70
+3 134.8019 74.8896 31.0 "BoundingBox(ixmin=132, ixmax=138, iymin=72, iymax=79)" 137 132 78 72
+4 100.5670 100.4972 627.0 "BoundingBox(ixmin=87, ixmax=116, iymin=85, iymax=117)" 115 87 116 85
+5 17.8507 118.0433 106.0 "BoundingBox(ixmin=12, ixmax=25, iymin=113, iymax=124)" 24 12 123 113
+6 121.3148 137.7754 123.0 "BoundingBox(ixmin=115, ixmax=128, iymin=131, iymax=146)" 127 115 145 131
+7 87.4679 161.9698 16.0 "BoundingBox(ixmin=86, ixmax=90, iymin=160, iymax=165)" 89 86 164 160
+8 157.2969 181.8851 25.0 "BoundingBox(ixmin=155, ixmax=161, iymin=179, iymax=185)" 160 155 184 179
+9 56.0066 193.1488 329.0 "BoundingBox(ixmin=46, ixmax=68, iymin=182, iymax=201)" 67 46 200 182
