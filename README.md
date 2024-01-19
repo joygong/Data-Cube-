@@ -1,4 +1,4 @@
-# Simulating 3D Datacubes for the Roman Space Telescope
+# Simulating 3D Galaxy Datacubes for the ***Roman*** Space Telescope
 
 ## To simulate datacubes, follow these steps:
 1. Download all files in the directories `necessary_files`,  `python_scripts`, and `bash_scripts`. 
