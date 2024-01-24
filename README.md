@@ -5,6 +5,6 @@
 2. Make sure dependencies are installed (see python scripts), including [CIGALE](https://cigale.lam.fr/). Set up CIGALE in your directory and modify the source path in `runCIGALE.sh`.
 3. To run locally, execute `./datacubes.sh` (you can modify the number of datacubes you simulate). 
 4. To submit batch jobs, execute `./run_zs.sh` (again, you can modify the number of datacubes you simulate). Make sure to change `#SBATCH -q debug` to `#SBATCH -q regular` in `run_z.sl` if you are simulating > 5 datacubes. 
-5. To plot results (both images and SEDs), use `Visualization_Spectra.ipynb` in the `visualization` directory.
+5. The scripts will generate a file with paths to all datacubes and all suspicious datacubes. To plot results (both images and SEDs), use `Visualization_Spectra.ipynb` in the `visualization` directory.
 
 
